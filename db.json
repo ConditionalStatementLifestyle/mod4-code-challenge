@@ -1,0 +1,52 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "img": "https://mppl.org/wp-content/uploads/0-214x300.jpg"
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "img": "https://i0.wp.com/www.casualoptimist.com/wp-content/uploads/2017/01/1984-design-Shepard-Fairey.jpg"
+    },
+    {
+      "id": 3,
+      "title": "To Kill A Mockingbird",
+      "author": "Harper Lee",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/To_Kill_a_Mockingbird.JPG/220px-To_Kill_a_Mockingbird.JPG"
+    },
+    {
+      "id": 4,
+      "title": "Long Walk to Freedom",
+      "author": "Nelson Mandela",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51DVbVOCedL._SX318_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "48 Laws of Power",
+      "author": "Robert Green",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/71aG%2BxDKSYL.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Homegoing",
+      "author": "Yaa Gyasi",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/41UY3xTBq3L._SX322_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "The Jungle",
+      "author": "Upton Sinclair",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51i13OyQ1EL._SX346_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "We Should All Be Feminists",
+      "author": "Chimamanda Ngozi Adichie",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51L9u20bC7L._SX348_BO1,204,203,200_.jpg"
+    }
+  ]
+}
